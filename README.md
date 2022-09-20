@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm a computer science student, aspiring full stack developer 👨‍💻  and data scientist 🚀</div>  
+## I'm a computer science student, aspiring full stack developer 👨‍💻  and data scientist 🚀</div>  
   
 
 - 🔭 I’m currently working on `i-clinic` PWA.  
