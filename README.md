@@ -7,13 +7,11 @@
   
 
 - 🔭 I’m currently working on `i-clinic` PWA.  
-  
-
-- 🌱 I’m currently enrolled at AlX africa SE programme.  
-  
+    
 
 - ❓ Ask me about anything related to web and data science.  
-    
+  
+- Venturing into cross platform mobile app dev using flutter ^3
 
 <br/>  
 
@@ -65,17 +63,17 @@
 <a href="https://github.com/cmwema" target="blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/caleb_mwema" target="blank">
+<a href="caleb_mwema" target="blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/caleb-mwema-b9ba751a8/" target="blank">
+<a href="caleb-mwema-b9ba751a8/" target="blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/calebmwema" target="blank">
+<a href="calebmwema" target="blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/@calebmwema65" target="blank">
+<a href="@calebmwema65" target="blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
