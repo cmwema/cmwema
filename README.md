@@ -13,10 +13,7 @@
   
 
 - ❓ Ask me about anything related to web and data science.  
-  
-
-- ⚡ Fun fact: I use tabs over spaces. Do not love php and windows OS.😁  
-  
+    
 
 <br/>  
 
