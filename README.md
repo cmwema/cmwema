@@ -4,12 +4,9 @@
   
 
 ## I'm a computer science student, aspiring full stack developer 👨‍💻  and data scientist 🚀</div>  
-  
+     
 
-- 🔭 I’m currently working on `i-clinic` PWA.  
-    
-
-- ❓ Ask me about anything related to web and data science.  
+- ❓ Ask me about anything related to Flutter dev and Data Analysis.  
   
 - Venturing into cross platform mobile app dev using flutter ^3
 
