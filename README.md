@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmwema" alt="cmwema" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@caleb_mwema" target="blank"><img src="https://img.shields.io/twitter/follow/@caleb_mwema?logo=twitter&style=for-the-badge" alt="@caleb_mwema" /></a> </p>
+<p align="left"> <a href="https://twitter.com/caleb_mwema" target="blank"><img src="https://img.shields.io/twitter/follow/@caleb_mwema?logo=twitter&style=for-the-badge" alt="@caleb_mwema" /></a> </p>
 
 - 🔭 I’m currently working on **flutter dev**
 
