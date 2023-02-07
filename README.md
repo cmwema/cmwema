@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmwema&label=Profile%20views&color=0e75b6&style=flat" alt="cmwema" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmwema" alt="cmwema" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@caleb_mwema" target="blank"><img src="https://img.shields.io/twitter/follow/@caleb_mwema?logo=twitter&style=for-the-badge" alt="@caleb_mwema" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter with dart cross platform development.**
