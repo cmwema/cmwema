@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Django/React/nodejs projects**
 
-- 👨‍💻 All of my projects are available at [cmwema.odoo.com](cmwema.odoo.com)
-
 - 💬 Ask me about **react, python, odoo**
 
 - 📫 How to reach me **calebmwema65@gmail.com**
