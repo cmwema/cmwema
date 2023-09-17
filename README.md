@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmwema" alt="cmwema" /></a> </p>
 
-- 🔭 I’m currently working on **Josephine caribbean BBQ Restaurant App.**
-
 - 🌱 I’m currently learning **Django-rest-framework**
 
 - 👯 I’m looking to collaborate on **Django/React/nodejs projects**
@@ -14,8 +12,6 @@
 - 💬 Ask me about **react, python, odoo**
 
 - 📫 How to reach me **calebmwema65@gmail.com**
-
-- ⚡ Fun fact **I love Vim.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
