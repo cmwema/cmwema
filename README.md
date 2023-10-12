@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 - 🌐 I'm a web developer with expertise in HTML, CSS, JavaScript, and more.
 - 🚀 I'm always eager to learn and explore new technologies.
-- 🌱 Currently, I'm working on exciting projects and expanding my skillset.
+- 🌱 Currently, I'm working on exciting projects and expanding my skillset on [Django](https://www.djangoproject.com/) and [Reactjs](https://react.dev/).
 - 📚 I believe in the power of open-source and community-driven development.
 
 ## My Work
