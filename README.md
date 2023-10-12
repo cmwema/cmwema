@@ -31,13 +31,13 @@ Data entry and system testing for a role based university hybrid e-Learning syst
 ## My Work
 | | | |
 | --- | --- | --- |
-| **First website** <br> [school website](https://school-website-template-one.vercel.app/) | A simple website built using HTML, CSS, and JavaScript. | ![Image](https://github.com/cmwema/cmwema/raw/main/assets/81985376/e489fbd1-a871-4e63-924f-d371fa7f1074){width=200} |
+| **First website** <br> [school website](https://school-website-template-one.vercel.app/) | A simple website built using HTML, CSS, and JavaScript. | ![image](https://github.com/cmwema/cmwema/assets/81985376/a2937a2c-17be-4519-bd40-435a61d10f2f) |
 | | | |
-| **Portfolio 1.0** <br> [Portfolio](https://bootstrap-assignment-ochre.vercel.app/) | A static website built using HTML and Bootstrap. | ![Image](https://github.com/cmwema/cmwema/raw/main/assets/81985376/a95124bb-9c95-4f65-8182-004d6af95eb7) |
+| **Portfolio 1.0** <br> [Portfolio](https://bootstrap-assignment-ochre.vercel.app/) | A static website built using HTML and Bootstrap. | ![image](https://github.com/cmwema/cmwema/assets/81985376/31e5f873-e542-4d6e-a151-4e532638ec84)|
 | | | |
-| **SPA 1.0** <br> [Zidallie website](https://zidallie2-cmwema.vercel.app/) | First SPA website built using basic knowledge of React.js. Implemented routing and reusable components. | ![Image](https://github.com/cmwema/cmwema/raw/main/assets/81985376/bce5b692-81ec-4082-a29a-38d7b058ab86)|
+| **SPA 1.0** <br> [Zidallie website](https://zidallie2-cmwema.vercel.app/) | First SPA website built using basic knowledge of React.js. Implemented routing and reusable components. | ![image](https://github.com/cmwema/cmwema/assets/81985376/c2ccdab8-2a93-4b80-94f4-f86952f71abc) |
 | | | |
-| **SPA 2.0** <br> [Innovate technologies website](https://innovate-tau.vercel.app/) | Simple fully responsive SPA using ReactJS. | ![Image](https://github.com/cmwema/cmwema/raw/main/assets/81985376/096764bf-5e10-40fd-adce-7c1264dd92e1) |
+| **SPA 2.0** <br> [Innovate technologies website](https://innovate-tau.vercel.app/) | Simple fully responsive SPA using ReactJS. | ![image](https://github.com/cmwema/cmwema/assets/81985376/1b19b31e-b9d1-48f7-b69f-555f94681349) |
 | | | |
 
 ## Contact
