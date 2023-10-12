@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/@caleb_mwema?style=social)](https://twitter.com/@caleb_mwema)
+[![Twitter Follow](https://img.shields.io/twitter/follow/caleb_mwema?style=social)](https://twitter.com/caleb_mwema)
 
 [![GitHub followers](https://img.shields.io/github/followers/cmwema?label=Follow&style=social)](https://github.com/cmwema)
 
@@ -17,28 +17,27 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 Here are some of my hosted projects:
 
-### First website: [school website](https://school-website-template-one.vercel.app/))
+### First website: [school website](https://school-website-template-one.vercel.app/)
 
-![image](https://github.com/cmwema/cmwema/assets/81985376/e489fbd1-a871-4e63-924f-d371fa7f1074)
+<img src="https://github.com/cmwema/cmwema/assets/81985376/e489fbd1-a871-4e63-924f-d371fa7f1074" width="400" alt="Image">
 
 A simple website built using html, css and javascript.
 
 ### Portfolio 1.0: [Portfolio](https://bootstrap-assignment-ochre.vercel.app/)
 
-![image](https://github.com/cmwema/cmwema/assets/81985376/a95124bb-9c95-4f65-8182-004d6af95eb7)
-
+<img src="https://github.com/cmwema/cmwema/assets/81985376/a95124bb-9c95-4f65-8182-004d6af95eb7" width="400" alt="Image">
 
 A static website built using html and bootstrap.
 
 ### SPA 1.0: [Zidallie website](https://zidallie2-cmwema.vercel.app/)
 
-![image](https://github.com/cmwema/cmwema/assets/81985376/bce5b692-81ec-4082-a29a-38d7b058ab86)
-
+<img src="https://github.com/cmwema/cmwema/assets/81985376/bce5b692-81ec-4082-a29a-38d7b058ab86" width="400" alt="Image">
 
 First SPA website built using basic knowledge of Reactjs. Implementet routing and reusable components.
 
-
 ### SPA 2.0: [Innovate technologies website](https://innovate-tau.vercel.app/)
+<img src="https://github.com/cmwema/cmwema/assets/81985376/bce5b692-81ec-4082-a29a-38d7b058ab86" width="400" alt="Image">
+
 Simple fully responsive SPA using ReactJS.
 
 ## Experience
