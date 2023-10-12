@@ -30,17 +30,13 @@ Data entry and system testing for a role based university hybrid e-Learning syst
 
 ## My Work
 | | | |
-| --- | --- | --- |
-| **First website** <br> [school website](https://school-website-template-one.vercel.app/) |A simple website built using HTML, CSS, and JavaScript. | ![Image](https://github.com/cmwema/cmwema/assets/81985376/e489fbd1-a871-4e63-924f-d371fa7f1074){ width=400 } |
+| **First website** <br> [school website](https://school-website-template-one.vercel.app/) |A simple website built using HTML, CSS, and JavaScript. | <img src="https://github.com/cmwema/cmwema/assets/81985376/e489fbd1-a871-4e63-924f-d371fa7f1074" width="400px"/> |
 | | | |
-| --- | --- | --- |
-| **Portfolio 1.0** <br> [Portfolio](https://bootstrap-assignment-ochre.vercel.app/) | A static website built using html and bootstrap. | ![Image](https://github.com/cmwema/cmwema/assets/81985376/a95124bb-9c95-4f65-8182-004d6af95eb7){ width=400 } |
+| **Portfolio 1.0** <br> [Portfolio](https://bootstrap-assignment-ochre.vercel.app/) | A static website built using html and bootstrap. | <img src="https://github.com/cmwema/cmwema/assets/81985376/a95124bb-9c95-4f65-8182-004d6af95eb7" width="400px" /> |
 | | | |
-| --- | --- | --- |
-| **SPA 1.0** <br> [Zidallie website](https://zidallie2-cmwema.vercel.app/) | First SPA website built using basic knowledge of React.js. Implemented routing and reusable components. | ![Image](https://github.com/cmwema/cmwema/assets/81985376/bce5b692-81ec-4082-a29a-38d7b058ab86){ width=400 } |
+| **SPA 1.0** <br> [Zidallie website](https://zidallie2-cmwema.vercel.app/) | First SPA website built using basic knowledge of React.js. Implemented routing and reusable components. | <img src="https://github.com/cmwema/cmwema/assets/81985376/bce5b692-81ec-4082-a29a-38d7b058ab86" width="400px"/>|
 | | | |
-| --- | --- | --- |
-| **SPA 2.0** <br> [Innovate technologies website](https://innovate-tau.vercel.app/) | Simple fully responsive SPA using ReactJS. | ![Image](https://github.com/cmwema/cmwema/assets/81985376/096764bf-5e10-40fd-adce-7c1264dd92e1){ width=400 } |
+| **SPA 2.0** <br> [Innovate technologies website](https://innovate-tau.vercel.app/) | Simple fully responsive SPA using ReactJS. | <img src="https://github.com/cmwema/cmwema/assets/81985376/096764bf-5e10-40fd-adce-7c1264dd92e1"  width='400px'/>|
 | | | |
 
 ## Contact
