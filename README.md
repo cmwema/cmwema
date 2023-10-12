@@ -1,27 +1,63 @@
-<h1 align="center">Hi 👋, I'm Caleb Mwema</h1>
-<h3 align="center">A passionate software developer</h3>
+# Hello, I'm [Your Name] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmwema&label=Profile%20views&color=0e75b6&style=flat" alt="cmwema" /> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/@caleb_mwema?style=social)](https://twitter.com/@caleb_mwema)
 
-- 🌱 I’m currently learning **Django-rest-framework**
+[![GitHub followers](https://img.shields.io/github/followers/cmwema?label=Follow&style=social)](https://github.com/cmwema)
 
-- 👯 I’m looking to collaborate on **Django/React/nodejs projects**
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating beautiful and functional web applications. Here, you'll find a glimpse of my work, experiences, and more.
 
-- 💬 Ask me about **react, python, odoo**
+## About Me
 
-- 📫 How to reach me **calebmwema65@gmail.com**
+- 🌐 I'm a web developer with expertise in HTML, CSS, JavaScript, and more.
+- 🚀 I'm always eager to learn and explore new technologies.
+- 🌱 Currently, I'm working on exciting projects and expanding my skillset.
+- 📚 I believe in the power of open-source and community-driven development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@caleb_mwema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@caleb_mwema" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/caleb-mwema-b9ba751a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caleb-mwema-b9ba751a8" height="30" width="40" /></a>
-</p>
+## My Work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Here are some of my hosted projects:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmwema&show_icons=true&locale=en&layout=compact" alt="cmwema" /></p>
+### First website: [school website](https://school-website-template-one.vercel.app/))
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmwema&show_icons=true&locale=en" alt="cmwema" /></p>
+![image](https://github.com/cmwema/cmwema/assets/81985376/e489fbd1-a871-4e63-924f-d371fa7f1074)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmwema&" alt="cmwema" /></p>
+A simple website built using html, css and javascript.
+
+### Portfolio 1.0: [Portfolio](https://bootstrap-assignment-ochre.vercel.app/)
+
+![image](https://github.com/cmwema/cmwema/assets/81985376/a95124bb-9c95-4f65-8182-004d6af95eb7)
+
+
+A static website built using html and bootstrap.
+
+### SPA 1.0: [Zidallie website](https://zidallie2-cmwema.vercel.app/)
+
+![image](https://github.com/cmwema/cmwema/assets/81985376/bce5b692-81ec-4082-a29a-38d7b058ab86)
+
+
+First SPA website built using basic knowledge of Reactjs. Implementet routing and reusable components.
+
+
+### SPA 2.0: [Innovate technologies website](https://innovate-tau.vercel.app/)
+Simple fully responsive SPA using ReactJS.
+
+## Experience
+
+### [BRW-Automation](https://brw-automation.odoo.com/) - Intern (May 2023 - present)
+
+Working with Odoo 16 framework, for customization of the manufacturing and inventory, and custom applications using Python and Javascript.
+
+### [Zidallie](https://zidallie.africa) - Intern (Jan 2023  - Mar 2023)
+
+As a Remote React.js Web Developer Intern, I had the opportunity to gain valuable experience in one of the most popular and rapidly-growing front-end development frameworks. I wrote clean and efficient code, tested and debugged my work, and participated in team meetings and code reviews.
+
+Working remotely, I learned to communicate effectively with my team and manage my time efficiently. I also had the opportunity to contribute to the overall success of the company by taking on various projects and tasks. This internship provided me with hands-on experience in a fast-paced, innovative environment and set me on a path towards a rewarding career in web development.
+
+### [Role Tree System](https://roletreesystem.com) - Intern (Nov 2022 - May 2023)
+Data entry and system testing for a role based university hybrid e-Learning system.
+
+## Contact
+
+📫 You can reach me via email at [calebmwema65@gmail.com](mailto:calebmwema65@gmail.com).
+
+Let's connect and collaborate on exciting projects!
