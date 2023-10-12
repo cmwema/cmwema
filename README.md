@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ### [BRW-Automation](https://brw-automation.odoo.com/) - Intern (May 2023 - present)
 
-Working with Odoo 16 framework, for customization of the manufacturing and inventory, and custom applications using Python and Javascript.
+Working with Odoo 16 framework, for customization of the manufacturing and inventory, and building custom applications using Python, vanilla Javascript and Reactjs.
 
 ### [Zidallie](https://zidallie.africa) - Intern (Jan 2023  - Mar 2023)
 
