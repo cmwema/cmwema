@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## My Work
 
-Here are some of my hosted projects:
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <div style="width: 49%;">
@@ -25,7 +23,7 @@ Here are some of my hosted projects:
 
 <img src="https://github.com/cmwema/cmwema/assets/81985376/e489fbd1-a871-4e63-924f-d371fa7f1074" width="400" alt="Image">
 
-A simple website built using html, css and javascript.
+A simple website built using HTML, CSS, and JavaScript.
 
 </div>
 
@@ -35,13 +33,9 @@ A simple website built using html, css and javascript.
 
 <img src="https://github.com/cmwema/cmwema/assets/81985376/a95124bb-9c95-4f65-8182-004d6af95eb7" width="400" alt="Image">
 
-A static website built using html and bootstrap.
+A static website built using HTML and Bootstrap.
 
 </div>
-
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <div style="width: 49%;">
 
@@ -49,7 +43,7 @@ A static website built using html and bootstrap.
 
 <img src="https://github.com/cmwema/cmwema/assets/81985376/bce5b692-81ec-4082-a29a-38d7b058ab86" width="400" alt="Image">
 
-First SPA website built using basic knowledge of Reactjs. Implemented routing and reusable components.
+First SPA website built using basic knowledge of React.js. Implemented routing and reusable components.
 
 </div>
 
@@ -64,6 +58,7 @@ Simple fully responsive SPA using ReactJS.
 </div>
 
 </div>
+
 
 
 ## Experience
