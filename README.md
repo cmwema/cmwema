@@ -17,29 +17,48 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 Here are some of my hosted projects:
 
+<table>
+  <tr>
+    <td>
+      
 ### First website: [school website](https://school-website-template-one.vercel.app/)
 
 <img src="https://github.com/cmwema/cmwema/assets/81985376/e489fbd1-a871-4e63-924f-d371fa7f1074" width="400" alt="Image">
 
 A simple website built using html, css and javascript.
 
+</td>
+<td>
+      
 ### Portfolio 1.0: [Portfolio](https://bootstrap-assignment-ochre.vercel.app/)
 
 <img src="https://github.com/cmwema/cmwema/assets/81985376/a95124bb-9c95-4f65-8182-004d6af95eb7" width="400" alt="Image">
 
 A static website built using html and bootstrap.
 
+</td>
+  </tr>
+  <tr>
+    <td>
+
 ### SPA 1.0: [Zidallie website](https://zidallie2-cmwema.vercel.app/)
 
 <img src="https://github.com/cmwema/cmwema/assets/81985376/bce5b692-81ec-4082-a29a-38d7b058ab86" width="400" alt="Image">
 
-First SPA website built using basic knowledge of Reactjs. Implementet routing and reusable components.
+First SPA website built using basic knowledge of Reactjs. Implemented routing and reusable components.
 
+</td>
+<td>
+      
 ### SPA 2.0: [Innovate technologies website](https://innovate-tau.vercel.app/)
 
 <img src="https://github.com/cmwema/cmwema/assets/81985376/096764bf-5e10-40fd-adce-7c1264dd92e1" width="400" alt="Image">
 
 Simple fully responsive SPA using ReactJS.
+
+</td>
+  </tr>
+</table>
 
 ## Experience
 
