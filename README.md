@@ -31,7 +31,7 @@ Data entry and system testing for a role based university hybrid e-Learning syst
 ## My Work
 | | | |
 | --- | --- | --- |
-| **First website** <br> [school website](https://school-website-template-one.vercel.app/) | A simple website built using HTML, CSS, and JavaScript. | ![Image](https://github.com/cmwema/cmwema/raw/main/assets/81985376/e489fbd1-a871-4e63-924f-d371fa7f1074) |
+| **First website** <br> [school website](https://school-website-template-one.vercel.app/) | A simple website built using HTML, CSS, and JavaScript. | ![Image](https://github.com/cmwema/cmwema/raw/main/assets/81985376/e489fbd1-a871-4e63-924f-d371fa7f1074){width=200} |
 | | | |
 | **Portfolio 1.0** <br> [Portfolio](https://bootstrap-assignment-ochre.vercel.app/) | A static website built using HTML and Bootstrap. | ![Image](https://github.com/cmwema/cmwema/raw/main/assets/81985376/a95124bb-9c95-4f65-8182-004d6af95eb7) |
 | | | |
