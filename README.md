@@ -35,7 +35,7 @@ Data entry and system testing for a role based university hybrid e-Learning syst
 | A simple website built using HTML, CSS, and JavaScript. | | |
 | | | |
 | **Portfolio 1.0** | [Portfolio](https://bootstrap-assignment-ochre.vercel.app/) | ![Image](https://github.com/cmwema/cmwema/assets/81985376/a95124bb-9c95-4f65-8182-004d6af95eb7){ width=400 } |
-| Working with Odoo 16 framework, for customization of the manufacturing and inventory, and custom applications using Python and Javascript. A static website built using HTML and Bootstrap. | | |
+| A static website built using html and bootstrap.| | |
 | | | |
 | **SPA 1.0** | [Zidallie website](https://zidallie2-cmwema.vercel.app/) | ![Image](https://github.com/cmwema/cmwema/assets/81985376/bce5b692-81ec-4082-a29a-38d7b058ab86){ width=400 } |
 | First SPA website built using basic knowledge of React.js. Implemented routing and reusable components. | | |
