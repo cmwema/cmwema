@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmwema&show_icons=true&locale=en&layout=compact" alt="cmwema" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmwema&show_icons=true&locale=en" alt="cmwema" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmwema&" alt="cmwema" /></p>
 
 ## Experience
