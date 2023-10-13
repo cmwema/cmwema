@@ -47,6 +47,8 @@ Data entry and system testing for a role based university hybrid e-Learning syst
 | | | |
 | **mapty** <br> [Link](https://mapty-rust.vercel.app/) | A guided vanilla javascript project. | ![image](https://github.com/cmwema/cmwema/assets/81985376/e0cab1a7-6ef4-449b-a0e2-7b2e42a8ee7e)|
 | | | |
+| **Eyelinic** <br> [link](https://eyelinic.onrender.com) | Beginner level nodejs serverside rendered dynamic website | ![image](https://github.com/cmwema/cmwema/assets/81985376/357e019c-3977-47dc-8c42-8d9150e2b046) |
+| | | |
 | **SPA 1.0** <br> [Zidallie website](https://zidallie2-cmwema.vercel.app/) | First SPA website built using basic knowledge of React.js. Implemented routing and reusable components. | ![image](https://github.com/cmwema/cmwema/assets/81985376/c2ccdab8-2a93-4b80-94f4-f86952f71abc) |
 | | | |
 | **SPA 2.0** <br> [Innovate technologies website](https://innovate-tau.vercel.app/) | Simple fully responsive SPA using ReactJS. | ![image](https://github.com/cmwema/cmwema/assets/81985376/1b19b31e-b9d1-48f7-b69f-555f94681349) |
