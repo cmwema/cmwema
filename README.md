@@ -43,8 +43,7 @@ Data entry and system testing for a role based university hybrid e-Learning syst
 | | | |
 | **Portfolio 1.0** <br> [Portfolio](https://bootstrap-assignment-ochre.vercel.app/) | A static website built using HTML and Bootstrap. | ![image](https://github.com/cmwema/cmwema/assets/81985376/31e5f873-e542-4d6e-a151-4e532638ec84)|
 | | | |
-| **Forkify** <br> [Forkify](https://forkify-app-sepia.vercel.app) | A guided vanilla javascript project. | ![image](https://github.com/cmwema/cmwema/assets/81985376/7dfbb588-9a52-41e3-9dad-a3f8c2bef2f3)
-|
+| **Forkify** <br> [Forkify](https://forkify-app-sepia.vercel.app) | A guided vanilla javascript project. | ![image](https://github.com/cmwema/cmwema/assets/81985376/7dfbb588-9a52-41e3-9dad-a3f8c2bef2f3)|
 | | | |
 | **SPA 1.0** <br> [Zidallie website](https://zidallie2-cmwema.vercel.app/) | First SPA website built using basic knowledge of React.js. Implemented routing and reusable components. | ![image](https://github.com/cmwema/cmwema/assets/81985376/c2ccdab8-2a93-4b80-94f4-f86952f71abc) |
 | | | |
