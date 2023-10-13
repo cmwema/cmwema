@@ -1,4 +1,4 @@
-![image](https://github.com/cmwema/cmwema/assets/81985376/608b5ccf-cbc1-44d5-a228-e5fc40b26cf9)# Hello, I'm Caleb Mwema 👋
+# Hello, I'm Caleb Mwema 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/caleb_mwema?style=social)](https://twitter.com/caleb_mwema)
 
