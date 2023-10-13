@@ -1,4 +1,4 @@
-# Hello, I'm Caleb Mwema 👋
+![image](https://github.com/cmwema/cmwema/assets/81985376/608b5ccf-cbc1-44d5-a228-e5fc40b26cf9)# Hello, I'm Caleb Mwema 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/caleb_mwema?style=social)](https://twitter.com/caleb_mwema)
 
@@ -42,6 +42,9 @@ Data entry and system testing for a role based university hybrid e-Learning syst
 | **First website** <br> [school website](https://school-website-template-one.vercel.app/) | A simple website built using HTML, CSS, and JavaScript. | ![image](https://github.com/cmwema/cmwema/assets/81985376/a2937a2c-17be-4519-bd40-435a61d10f2f) |
 | | | |
 | **Portfolio 1.0** <br> [Portfolio](https://bootstrap-assignment-ochre.vercel.app/) | A static website built using HTML and Bootstrap. | ![image](https://github.com/cmwema/cmwema/assets/81985376/31e5f873-e542-4d6e-a151-4e532638ec84)|
+| | | |
+| **Forkify** <br> [Forkify](https://forkify-app-sepia.vercel.app) | A guided vanilla javascript project. | ![image](https://github.com/cmwema/cmwema/assets/81985376/7dfbb588-9a52-41e3-9dad-a3f8c2bef2f3)
+|
 | | | |
 | **SPA 1.0** <br> [Zidallie website](https://zidallie2-cmwema.vercel.app/) | First SPA website built using basic knowledge of React.js. Implemented routing and reusable components. | ![image](https://github.com/cmwema/cmwema/assets/81985376/c2ccdab8-2a93-4b80-94f4-f86952f71abc) |
 | | | |
