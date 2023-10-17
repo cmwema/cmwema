@@ -43,10 +43,6 @@ Data entry and system testing for a role based university hybrid e-Learning syst
 | | | |
 | **Portfolio 1.0** <br> [Link](https://bootstrap-assignment-ochre.vercel.app/) | A static website built using HTML and Bootstrap. | ![image](https://github.com/cmwema/cmwema/assets/81985376/31e5f873-e542-4d6e-a151-4e532638ec84)|
 | | | |
-| **Forkify** <br> [Link](https://forkify-app-sepia.vercel.app) | A guided vanilla javascript project. | ![image](https://github.com/cmwema/cmwema/assets/81985376/7dfbb588-9a52-41e3-9dad-a3f8c2bef2f3)|
-| | | |
-| **mapty** <br> [Link](https://mapty-rust.vercel.app/) | A guided vanilla javascript project. | ![image](https://github.com/cmwema/cmwema/assets/81985376/e0cab1a7-6ef4-449b-a0e2-7b2e42a8ee7e)|
-| | | |
 | **Eyelinic** <br> [link](https://eyelinic.onrender.com) | Beginner level nodejs serverside rendered dynamic website | ![image](https://github.com/cmwema/cmwema/assets/81985376/357e019c-3977-47dc-8c42-8d9150e2b046) |
 | | | |
 | **SPA 1.0** <br> [Zidallie website](https://zidallie2-cmwema.vercel.app/) | First SPA website built using basic knowledge of React.js. Implemented routing and reusable components. | ![image](https://github.com/cmwema/cmwema/assets/81985376/c2ccdab8-2a93-4b80-94f4-f86952f71abc) |
