@@ -25,14 +25,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 📫 You can reach me via email at [calebmwema65@gmail.com](mailto:calebmwema65@gmail.com).
 
 Let's connect and collaborate on exciting projects!
-
-ment.
-
-### [Role Tree System](https://roletreesystem.com) - Intern (Nov 2022 - May 2023)
-Data entry and system testing for a role based university hybrid e-Learning system.
-
-## Contact
-
-📫 You can reach me via email at [calebmwema65@gmail.com](mailto:calebmwema65@gmail.com).
-
-Let's connect and collaborate on exciting projects!
