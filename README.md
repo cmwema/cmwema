@@ -23,5 +23,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## Contact
 
 📫 You can reach me via email at [calebmwema65@gmail.com](mailto:calebmwema65@gmail.com).
+[My resume](https://drive.google.com/file/d/15v_Fn9U_oXvCBE16qvz57C9TgGX5Tgk4/view?usp=sharing)
 
 Let's connect and collaborate on exciting projects!
