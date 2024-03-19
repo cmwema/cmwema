@@ -10,6 +10,7 @@
 - 💬 Ask me about **React, Redux and Django.**
 
 - 📫 How to reach me **calebmwema65@gmail.com**
+- Get my Resume [here](https://drive.google.com/file/d/1KSmAH-r0fgo71AROyJlSPCURV_kFA7GU/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Chelsea fan.**
 
